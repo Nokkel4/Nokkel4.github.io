@@ -11,6 +11,7 @@
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8036061790526440"> 
      crossorigin="anonymous"></script>
+     
      <google.com, pub-8036061790526440, DIRECT, f08c47fec0942fa0>
      
 ## What is our mission?
