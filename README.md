@@ -31,7 +31,7 @@ Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354Az
 
 - **We are happy if u would like to be part of our community!**
 - Regards -Nokkela
-- 
+  
 
 
 ```bash
