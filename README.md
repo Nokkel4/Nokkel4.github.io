@@ -8,11 +8,13 @@
     </a>
   </h1>
 </div>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8036061790526440"
      crossorigin="anonymous"></script>
+     
 ## What is our mission?
 
-Our mission is very simple. We give free things on our Discord server to those who want to play old games without paying. And we give free cheats from their makers, watch free movies, or if you need help with something, we can help with your problems. :) 
+Our mission is very simple. On our Discord server, there are free games that other game makers give, and we will notify you all the free games that will come in the future. And we have a lot more things you will want to check out on our Discord server. So come check it out! You don't lose anything if you see it yourself. And we have a good community; people are friendly there, and we like to help people with their problems with anything on your computer. ;) We all welcome you to be part of our community!
 
 -Nokkela
 
