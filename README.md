@@ -4,34 +4,32 @@
     <br />
     <br />
     <a href="Nokkel4.github.io">
-      <img src="https://i.pinimg.com/736x/32/7e/db/327edb9a15b304efc264668ada03f725.jpg" alt="Nokkela">
+      <img src="https://imgix.ranker.com/list_img_v2/12346/2292346/original/30-and-funny-cat-selfies-you-ll-wish-your-cat-took-u1?auto=format&q=50&fit=crop&fm=pjpg&dpr=2&crop=faces&h=185.86387434554973&w=355" alt="Hello Everyone!">
     </a>
   </h1>
 </div>
 
 ## What is our mission?
 
-Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
+Our mission is very simple. We give free things on our Discord server to those who want to play old games without paying. And we give free cheats from their makers, watch free movies, or if you need help with something, we can help with your problems. :) 
 
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusaurus.io)!
+-Nokkela
 
-**Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
+Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354AzTb-udDI6w)!
 
-- **Simple to Start**
+**Discord**: **https://discord.com/invite/rSXk9b7tQJ** Join our good comunity and be part of us and have fun.
 
-> Docusaurus is built in a way so that it can [get running](https://docusaurus.io/docs/installation) in as little time as possible. We've built Docusaurus to handle the website build process so you can focus on your project.
+- **Contact info**
 
-- **Localizable**
+**Gmail**: **nokkela.partners@gmail.com**
+**Discord**:**.nokkela**
+**Github**: **Nokkel4**
 
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
 
-- **Customizable**
+- **We are happy if u would like to be part of our community!**
+- Regards -Nokkela
+- 
 
-> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
-
-## Installation
-
-Use the initialization CLI to create your site:
 
 ```bash
 npm init docusaurus@latest
