@@ -8,7 +8,8 @@
     </a>
   </h1>
 </div>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8036061790526440"
+     crossorigin="anonymous"></script>
 ## What is our mission?
 
 Our mission is very simple. We give free things on our Discord server to those who want to play old games without paying. And we give free cheats from their makers, watch free movies, or if you need help with something, we can help with your problems. :) 
@@ -28,7 +29,9 @@ Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354Az
 
 **Github**: **Nokkel4**
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8036061790526440"
+     crossorigin="anonymous"></script>
+     
 - **We are happy if u would like to be part of our community!**
 - Regards -Nokkela
   
