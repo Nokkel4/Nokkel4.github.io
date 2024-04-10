@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-   `#000000` Nokkela's Community💀
+  <code style="color : red">Nokkela's Community</code>
     <br />
     <br />
     <a href="Nokkel4.github.io">
