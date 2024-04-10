@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">
-    Nokkela
+   --<Nokkela's Community>--
     <br />
     <br />
     <a href="Nokkel4.github.io">
-      <img src="https://imgix.ranker.com/list_img_v2/12346/2292346/original/30-and-funny-cat-selfies-you-ll-wish-your-cat-took-u1?auto=format&q=50&fit=crop&fm=pjpg&dpr=2&crop=faces&h=185.86387434554973&w=355" alt="Hello Everyone!">
+      <img src="https://img.freepik.com/premium-photo/computer-code-screen-with-skull-representing_9493-22938.jpg" alt="Hello Everyone!">
     </a>
   </h1>
 </div>
@@ -19,6 +19,7 @@ Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354Az
 
 **Discord**: **https://discord.com/invite/rSXk9b7tQJ** Join our good comunity and be part of us and have fun.
 
+
 - **Contact info**
 
 **Gmail**: **nokkela.partners@gmail.com**
@@ -32,7 +33,7 @@ Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354Az
 
 
 ```bash
-npm init docusaurus@latest
+nokkela.partners@gmail.com
 ```
 
-[Read the docs](https://docusaurus.io/docs/installation) for any further information.
+
