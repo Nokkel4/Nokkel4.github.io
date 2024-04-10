@@ -23,7 +23,9 @@ Youtube channel: [Check it out!](https://www.youtube.com/channel/UC9KtaRqqR354Az
 - **Contact info**
 
 **Gmail**: **nokkela.partners@gmail.com**
+
 **Discord**:**.nokkela**
+
 **Github**: **Nokkel4**
 
 
